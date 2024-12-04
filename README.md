@@ -4,4 +4,4 @@
 
 ### One can just run Guide.jl for contractibility.
 
-### Each Julia file contains the description in the front. 
+ Each Julia file contains the description in the front. 
