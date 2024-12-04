@@ -1,0 +1,11 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Quotients of real toric varieties
+message: Specialized just for Weyl groups
+type: software
+authors:
+  - given-names: ...
+repository-code: >-
+  https://github.com/ggttaaoo/quotients-of-real-toric-varieties-from-Weyl-groups
