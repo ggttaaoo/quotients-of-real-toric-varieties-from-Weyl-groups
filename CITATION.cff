@@ -2,10 +2,14 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: Quotients of real toric varieties
-message: Specialized just for Weyl groups
+title: 'quotients of real toric varieties '
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
 type: software
 authors:
-  - given-names: ...
+  - given-names: later perhaps
 repository-code: >-
-  https://github.com/ggttaaoo/quotients-of-real-toric-varieties-from-Weyl-groups
+  https://github.com/ggttaaoo/quotients-of-real-toric-varieties-from-Weyl-groups.git
+url: >-
+  https://github.com/ggttaaoo/quotients-of-real-toric-varieties-from-Weyl-groups.git
