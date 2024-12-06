@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: A tool for contractibility
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Colin Crowley
+  - given-names: Tao Gong
+  - given-names: Connor Simpson
+repository-code: >-
+  https://github.com/ggttaaoo/quotients-of-real-toric-varieties-from-Weyl-groups.git
+url: >-
+  https://github.com/ggttaaoo/quotients-of-real-toric-varieties-from-Weyl-groups.git
+abstract: >-
+  Julia codes for the quotient of a real toric variety form
+  a Weyl group
